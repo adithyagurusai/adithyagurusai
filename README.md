@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adithyagurusai
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c,
+- 🌱 I’m currently learning html,css,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
