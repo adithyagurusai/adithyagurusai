@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADITHYA KUKKAPALLI</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-- 🌱 I’m currently learning **spring**
+- 🌱 I’m currently learning **spring boot**
 
 - 📫 How to reach me **adithyakukkapalli@gmail.com**
 
