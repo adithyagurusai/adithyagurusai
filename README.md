@@ -1,9 +1,32 @@
-<h1 align="center">Hi 👋, I'm ADITHYA KUKKAPALLI</h1>
-<h3 align="center">A passionate coder from India</h3>
+# 👋 Hi, I'm Adithya !
 
-- 🌱 I’m currently learning **spring boot**
+[![LinkedIn](https://img.shields.io/badge/Adithya%20Kukkapall-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adithya-kukkapall/)](https://www.linkedin.com/in/adithya-kukkapall/)
 
-- 📫 How to reach me adithyakukkapalli@gmail.com
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+- 💻 Developer passionate about coding & open source
+- 🌱 Always learning and exploring new technologies
+- ☕ Currently diving deep into **Java** and **Machine Learning**
+- 🤝 Open to collaboration and new opportunities
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Python, SQL
+- **Frameworks/Libraries:** Spring Boot, Maven
+- **Databases:** MySQL
+- **Tools:** Git, GitHub
+
+## 📈 Featured Projects
+
+- [finanacer-api](https://github.com/venkatasaikatepalli/finanacer-api): Java-based finance API
+- [CareStack](https://github.com/adithyagurusai/CareStack)
+- [Jaundice_Predection](https://github.com/adithyagurusai/Jaundice_Predection): ML for health prediction
+- [querypdf](https://github.com/adithyagurusai/querypdf): Python PDF query tool
+
+## 🌟 Motto
+
+> "Always learning, always growing."
+
+---
+
+Let's connect and build something amazing together!
